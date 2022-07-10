@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasundharaSK
 - 👀 I’m interested in learning new things, exploring data 
-- 🌱 I’m currently learning deep learning techniques and algorithms
+- 🌱 I’m currently learning DSA,deep learning techniques and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vkolkoor@gmail.com
 
